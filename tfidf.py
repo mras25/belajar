@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.neighbors import NearestNeighbors
 
 # %%
-df = pd.read_csv(r"E:\belajar\archive (15)\netflix_titles.csv")
+df = pd.read_csv(r"netflix_titles.csv")
 df
 
 # %% [markdown]
